@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config "jandedobbeleer" | Invoke-Expression
